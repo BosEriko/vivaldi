@@ -1,23 +1,25 @@
 # Instructions
-Before you can use Vivaldi you need to setup a few things.
+Setup a few things with Vivaldi.
 
 ## Hotkeys
-### Window
-- Quick Commands: `ctrl`+`shift`+`p`
-- Keyboard Cheat Sheet: `ctrl`+`k`
+Before adding the hotkeys you must first remove all hotkeys to avoid conflicts.
+### Reserve
 - Undo: `ctrl`+`z`
 - Redo: `ctrl`+`y`
 - Cut: `ctrl`+`x`
 - Copy: `ctrl`+`c`
 - Paste: `ctrl`+`v`
 - Select All: `ctrl`+`a`
+- Page Zoom Out Half: `Numpad7`
+- Page Zoom In Double: `Numpad8`
+### Window
+- Quick Commands: `ctrl`+`shift`+`p`
+- Keyboard Cheat Sheet: `ctrl`+`k`
 ### View
 - Tab Bar: `ctrl`+`\`
 - Tabs on Right: `ctrl`+`shift`+`\`
-- Page Zoom Out Half: `Numpad7`
-- Page Zoom In Double: `Numpad8`
 ### Tab
-- New Tab: `ctrl`+`t`
+- New Tab: `ctrl`+`n`
 - Close Tab: `ctrl`+`w`
 - Previous Tab (by Order): `ctrl`+`alt`+`k`
 - Next Tab (by Order): `ctrl`+`alt`+`j`
@@ -26,8 +28,8 @@ Before you can use Vivaldi you need to setup a few things.
 - Reload Page: `ctrl`+`r`
 - Force Page Reload: `ctrl`+`shift`+`r`
 - Focus Search Field: `ctrl`+`f`
-- History Back: `ctrl`+`b`
-- History Forward: `ctrl`+`f`
+- History Back: `ctrl`+`alt`+`h`
+- History Forward: `ctrl`+`alt`+`l`
 - Stop Loading: `esc`
 
 ## Vimium C
@@ -38,12 +40,12 @@ Connect your [custom CSS](../../vivaldi/custom.css) to your Vivaldi:
 - Open vivaldi://experiments
 - Enable "Allow for using CSS modifications"
 - Open Appearance section in settings
-- Choose the folder you want to use
-- Place your CSS files inside it
-- Restart Vivaldi to see them in effect
+- Choose the folder where `custom.css` is located
+- Restart Vivaldi to see it inn effect
 
 ## Hide the following
 - Panel
+- Panel Toggle
 - Address Bar
 - Status Bar
 
