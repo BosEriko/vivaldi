@@ -15,3 +15,8 @@ curl -fsSL https://raw.githubusercontent.com/BosEriko/vivaldi/HEAD/install.sh | 
 
 ## Update your settings
 Follow this [instruction](instruction.md) to update your settings.
+
+## Developer Tools of Vivaldi UI
+To open the Developer Tools of the UI you can do:
+- Open Vivaldi and navigate to `vivaldi://inspect/#apps/`
+- Click “inspect” beneath the second line (Vivaldi window.html)

@@ -2,7 +2,7 @@
 Setup a few things with Vivaldi.
 
 ## Homepage
-Set your homepage to [Raindrop](https://app.raindrop.io/my/0) and set your startup to your homepage.
+Set your homepage to [Raindrop](https://app.raindrop.io/my/45548736) and set your startup to your homepage.
 
 ## Hotkeys
 Before adding the hotkeys you must first remove all hotkeys to avoid conflicts.
