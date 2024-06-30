@@ -1,5 +1,5 @@
 # Vivaldi (Browser)
-Download [Scoop](https://github.com/BosEriko/scoop) as your package manager then install [Visual Studio Code](https://scoop.sh/#/apps?q=vivaldi).
+Download [Scoop](https://github.com/BosEriko/scoop) as your package manager then install [Vivaldi](https://scoop.sh/#/apps?q=vivaldi).
 
 ## Install Vivaldi
 ```sh
