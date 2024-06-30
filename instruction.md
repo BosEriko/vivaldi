@@ -1,6 +1,9 @@
 # Instructions
 Setup a few things with Vivaldi.
 
+## Homepage
+Set your homepage to [Raindrop](https://raindrop.io/) and set your startup to your homepage.
+
 ## Hotkeys
 Before adding the hotkeys you must first remove all hotkeys to avoid conflicts.
 ### Reserve
