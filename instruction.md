@@ -34,6 +34,7 @@ Before adding the hotkeys you must first remove all hotkeys to avoid conflicts.
 - History Back: `ctrl`+`alt`+`h`
 - History Forward: `ctrl`+`alt`+`l`
 - Stop Loading: `esc`
+- Homepage: `ctrl`+`b`
 
 ## Vimium C
 Install [Vimium C](https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg) and update the "Characters used for link hints" to use `a`, `s`, `d`, `f`, `j`, `k`, `l` and `;`.
