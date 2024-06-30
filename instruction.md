@@ -26,8 +26,8 @@ Before you can use Vivaldi you need to setup a few things.
 - Reload Page: `ctrl`+`r`
 - Force Page Reload: `ctrl`+`shift`+`r`
 - Focus Search Field: `ctrl`+`f`
-- History Back: `ctrl`+`[`
-- History Forward: `ctrl`+`]`
+- History Back: `ctrl`+`b`
+- History Forward: `ctrl`+`f`
 - Stop Loading: `esc`
 
 ## Vimium C
@@ -58,10 +58,6 @@ Connect your [custom CSS](../../vivaldi/custom.css) to your Vivaldi:
 
 ## Themes
 Set your theme as [Dracula 2](https://themes.vivaldi.net/themes/V6kJN6LJWXP).
-
-## Other Extensions
-- [Paradify](https://chrome.google.com/webstore/detail/paradify-youtube-to-spoti/bocdilfmhiggklhdifohjfghbdncgele) - YouTube to Spotify
-- [Redditsave](https://chrome.google.com/webstore/detail/hhienkkjhkcdeaolmcniloflgpjhdefi) - Video Downloader for reddit
 
 ## Note
 Be sure to sync it!
