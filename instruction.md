@@ -6,26 +6,26 @@ Set your homepage to [Raindrop](https://app.raindrop.io/my/45548736) and set you
 
 ## Hotkeys
 Before adding the hotkeys you must first remove all hotkeys to avoid conflicts.
-### Reserve
-- Undo: `ctrl`+`z`
-- Redo: `ctrl`+`y`
-- Cut: `ctrl`+`x`
-- Copy: `ctrl`+`c`
-- Paste: `ctrl`+`v`
-- Select All: `ctrl`+`a`
-- Page Zoom Out Half: `Numpad7`
-- Page Zoom In Double: `Numpad8`
 ### Window
 - Quick Commands: `ctrl`+`shift`+`p`
 - Keyboard Cheat Sheet: `ctrl`+`k`
+- [Default] Undo: `ctrl`+`z`
+- [Default] Redo: `ctrl`+`y`
+- [Default] Cut: `ctrl`+`x`
+- [Default] Copy: `ctrl`+`c`
+- [Default] Paste: `ctrl`+`v`
+- [Default] Select All: `ctrl`+`a`
 ### View
 - Tab Bar: `ctrl`+`\`
-- Tabs on Right: `ctrl`+`shift`+`\`
+- [Default] Page Zoom In Double: `8` or `Numpad8`
 ### Tab
 - New Tab: `ctrl`+`n`
 - Close Tab: `ctrl`+`w`
+- Tabs on Right: `ctrl`+`shift`+`\`
 - Previous Tab (by Order): `ctrl`+`alt`+`k`
 - Next Tab (by Order): `ctrl`+`alt`+`j`
+- [Default] Previous Tab (Recent): `4` or `Numpad4`
+- [Default] Next Tab (Recent):  `4` or `Numpad3`
 ### Page
 - Focus Address Field: `ctrl`+`p`
 - Reload Page: `ctrl`+`r`
