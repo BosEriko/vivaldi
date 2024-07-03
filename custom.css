@@ -7,7 +7,7 @@ body {
   background-position: center !important;
 }
 
-#header, #panels, #panels-container, footer {
+#header, #panels, #panels-container, .toolbar-statusbar {
   display: none !important;
 }
 
