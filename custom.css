@@ -37,3 +37,10 @@
 {
     background-color: rgba(0,0,0,0)!important;
 }
+
+body {
+  background-color: #1b1e28 !important;
+  background-image: url("logo.png"), url('https://raw.githubusercontent.com/BosEriko/vivaldi/master/logo.png') !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
