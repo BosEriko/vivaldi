@@ -18,7 +18,7 @@ Connect your [custom CSS](custom.css) to your Vivaldi:
 - [ ] Use Animation
 ### Check
 - [x] Open Settings in a Tab
-- [x] Tab Bar Position on Bottom
+- [x] Tab Bar Position on Right
 - [x] Set as default browser
 
 ## Themes
