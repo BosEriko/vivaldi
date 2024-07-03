@@ -14,7 +14,7 @@ curl -fsSL https://raw.githubusercontent.com/BosEriko/vivaldi/HEAD/install.sh | 
 ```
 
 ## Update your settings
-Follow this [instruction](instruction.md) to update your settings.
+Follow this [instruction](instruction.md) to update your settings. Then update your [hotkeys](hotkeys.md).
 
 ## Developer Tools of Vivaldi UI
 To open the Developer Tools of the UI you can do:
