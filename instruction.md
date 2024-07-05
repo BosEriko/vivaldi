@@ -1,6 +1,10 @@
 # Instructions
 Setup a few things with Vivaldi.
 
+
+## Sync
+Login with your Vivaldi account and decrypt your files.
+
 ## Startup settings
 - Set Vivaldi as your default browser
 - Start homepage on a [specific page](https://app.raindrop.io/my/45548736)
@@ -30,6 +34,3 @@ Connect your [custom CSS](custom.css) to your Vivaldi:
 
 ## Themes
 Set your theme as [Dracula 2](https://themes.vivaldi.net/themes/V6kJN6LJWXP).
-
-## Note
-Be sure to sync it!
