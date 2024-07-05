@@ -26,7 +26,7 @@ Connect your [custom CSS](custom.css) to your Vivaldi:
 - [x] Set as default browser
 
 ## Extensions
-- [Raindrop](https://raindrop.io/download)
+- [Raindrop](https://chromewebstore.google.com/detail/ldgfbffkinooeloadekpmfoklnobpien)
 
 ## Themes
 Set your theme as [Dracula 2](https://themes.vivaldi.net/themes/V6kJN6LJWXP).
