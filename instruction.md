@@ -32,6 +32,7 @@ Connect your [custom CSS](custom.css) to your Vivaldi:
 ## Extensions
 - [Raindrop](https://chromewebstore.google.com/detail/ldgfbffkinooeloadekpmfoklnobpien)
 - [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde)
+- [DuckDuckGo Privacy Essentials](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 
 ## Themes
 Set your theme as [Dracula 2](https://themes.vivaldi.net/themes/V6kJN6LJWXP).
