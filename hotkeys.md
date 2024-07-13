@@ -3,6 +3,7 @@ Before adding the hotkeys you must first remove all hotkeys to avoid conflicts.
 
 ## Window
 - Quick Commands: `ctrl`+`shift`+`p`
+- Bookmarks: `ctrl`+`b`
 - Keyboard Cheat Sheet: `ctrl`+`k`
 - [Default] Undo: `ctrl`+`z`
 - [Default] Redo: `ctrl`+`y`
