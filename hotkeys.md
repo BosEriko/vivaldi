@@ -30,4 +30,3 @@ Before adding the hotkeys you must first remove all hotkeys to avoid conflicts.
 - History Back: `ctrl`+`alt`+`h`
 - History Forward: `ctrl`+`alt`+`l`
 - Stop Loading: `esc`
-- Homepage: `ctrl`+`b`

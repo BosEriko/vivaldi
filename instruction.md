@@ -5,9 +5,6 @@ Setup a few things with Vivaldi.
 ## Sync
 Login with your Vivaldi account and decrypt your files.
 
-## Startup settings
-- Start homepage on a [specific page](https://app.raindrop.io/my/45548736)
-
 ## Custom CSS
 Connect your [custom CSS](custom.css) to your Vivaldi:
 - Open vivaldi://experiments
@@ -30,7 +27,6 @@ Connect your [custom CSS](custom.css) to your Vivaldi:
 - [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde)
 - [DuckDuckGo Privacy Essentials](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - [Vimium C](https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg)
-- [daily.dev](https://chromewebstore.google.com/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
 
 ## Themes
 Set your theme as [Dracula 2](https://themes.vivaldi.net/themes/V6kJN6LJWXP).
