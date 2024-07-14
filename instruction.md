@@ -23,7 +23,6 @@ Connect your [custom CSS](custom.css) to your Vivaldi:
 - [x] Set as default browser
 
 ## Extensions
-- [Raindrop](https://chromewebstore.google.com/detail/ldgfbffkinooeloadekpmfoklnobpien)
 - [Proton Pass](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde)
 - [DuckDuckGo Privacy Essentials](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - [Vimium C](https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg)
